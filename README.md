@@ -1,1 +1,1 @@
-v1.0 için hazırlık
+v1.1 için hazırlık
