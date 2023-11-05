@@ -1,1 +1,1 @@
-# GitHub Desktop
+v1.0 için hazırlık
